@@ -39,11 +39,7 @@
     ```
     cd notes-application
     ```
-4. Установите зависимости:
-    ```
-    pip install -r requirements.txt
-    ```
-5. Запустите приложение:
+4. Запустите приложение:
     ```
     python main.py
     ```
